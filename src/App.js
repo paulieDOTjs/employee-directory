@@ -2,18 +2,14 @@ import React, { useState, useEffect } from "react";
 import "./App.css";
 import Header from "./Components/Header/Header";
 import EmployeeCard from "./Components/EmployeeCard/EmployeeCard";
-import data from "./Components/database/data.json";
+import data from "./database/data.json";
 
 function App() {
   const [cards, setCards] = useState(data);
 
-  useEffect(() => {
-
-  }, [cards]);
-
   function sortByLastName() {
-    let sortedArray = [];
-    cards.sort(function(a, b) {
+    let sortedArray = cards;
+    sortedArray.sort(function(a, b) {
       var employeeA = a.lastName;
       var employeeB = b.lastName;
       if (employeeA < employeeB) {
@@ -24,13 +20,12 @@ function App() {
       }
       return 0;
     });
-    sortedArray = cards;
-    setCards(sortedArray);
+    setCards([...sortedArray]);
   }
 
   function sortByAge() {
-    let sortedArray = [];
-    cards.sort(function(a, b) {
+    let sortedArray = cards;
+    sortedArray.sort(function(a, b) {
       var employeeA = a.age;
       var employeeB = b.age;
       if (employeeA < employeeB) {
@@ -41,8 +36,7 @@ function App() {
       }
       return 0;
     });
-    sortedArray = cards;
-    setCards(sortedArray);
+    setCards([...sortedArray]);
   }
 
   function filterOver18() {
