@@ -1,0 +1,18 @@
+header {
+  margin-top: 0;
+  min-height: 8vh;
+  background-color: #9fedeb;
+  font-family: "Fredoka One", cursive;
+  color: #2b125e;
+  border: 2px #2b125e solid;
+  border-top: 0;
+  border-radius: 12px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+h1 {
+  font-size: 52px;
+  margin-top: 0;
+  text-align: center;
+}

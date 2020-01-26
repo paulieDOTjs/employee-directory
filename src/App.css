@@ -1,0 +1,63 @@
+.main-section {
+  margin-top: 4vh;
+  background-color: #9fedeb;
+  color: #2b125e;
+  border: 2px #2b125e solid;
+  border-radius: 12px;
+  min-height: 80vh;
+  font-size: larger;
+  font-family: "Alata", sans-serif;
+}
+
+.sort-and-filter {
+  margin: 16px;
+  margin-bottom: 0;
+}
+
+.sort {
+  display: flex;
+  justify-content: center;
+}
+
+.filter {
+  display: flex;
+  justify-content: center;
+}
+
+.employee-cards {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 12px;
+}
+
+button:hover {
+  background-color: #2b125e;
+  color: #9fedeb;
+  transition: 0.3s;
+}
+
+.middle-button {
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+p {
+  font-size: 16px;
+}
+
+.default {
+  min-width: 124px;
+  border: #2b125e 2px solid;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+.filter-text {
+  margin-right: 16px;
+}
+
+.filter-text,
+.sort-text {
+  margin-top: auto;
+  margin-bottom: auto;
+}

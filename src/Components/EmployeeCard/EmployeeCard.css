@@ -1,0 +1,14 @@
+.EmployeeCard {
+  background-color: white;
+  border: #2b125e 2px solid;
+  border-radius: 8px;
+  padding: 12px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: #2b125e;
+  word-wrap: break-word;
+}
+
+.EmployeeName {
+  text-decoration: underline;
+}

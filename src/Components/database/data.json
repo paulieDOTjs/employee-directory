@@ -1,0 +1,110 @@
+[
+  {
+    "firstName": "Margot",
+    "lastName": "Hendrickson",
+    "role": "Cat",
+    "employeeID": "Neui79918",
+    "gender": "Female",
+    "email": "MargotMcIntyre@companyName.com",
+    "age": 6
+  },
+  {
+    "firstName": "Dan",
+    "lastName": "Hohdplockson",
+    "role": "CFO",
+    "employeeID": "aaaa00002",
+    "gender": "Male",
+    "email": "DanIzDaMan@yahoo.co.uk",
+    "age": 56
+  },
+  {
+    "firstName": "Merry",
+    "lastName": "Penniwether",
+    "role": "Digital Marketing",
+    "employeeID": "jhsdfDH78137",
+    "gender": "Non-binary",
+    "email": "merrytimeLaw@gmail.com",
+    "age": 28
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "Smith",
+    "role": "Human Resources",
+    "employeeID": "jkafUYU21878",
+    "gender": "Female",
+    "email": "SusanInHR@companyName.com",
+    "age": 62
+  },
+  {
+    "firstName": "Dan",
+    "lastName": "Phishman",
+    "role": "Big Fish Person",
+    "employeeID": "f15Hp3rs0n",
+    "gender": "Male",
+    "email": "goneFishing@yahoo.com",
+    "age": 84
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Jonders",
+    "role": "Mannequin Tester",
+    "employeeID": "kAhj3f7843",
+    "gender": "Male",
+    "email": "MikeJon@companyname.com",
+    "age": 14
+  },
+  {
+    "firstName": "Sally",
+    "lastName": "Farms",
+    "role": "Mom",
+    "employeeID": "439Mjdksa",
+    "gender": "Female",
+    "email": "bakedPie@yahoo.com",
+    "age": 45
+  },
+  {
+    "firstName": "Tymothy",
+    "lastName": "Delvecchio",
+    "role": "Rogue",
+    "employeeID": "jjh32837",
+    "gender": "Male",
+    "email": "chikkenPotPy@gmail.com",
+    "age": 16
+  },
+  {
+    "firstName": "Brog",
+    "lastName": "Barrow",
+    "role": "Druid",
+    "employeeID": "kj3298Kasd",
+    "gender": "Male",
+    "email": "N/A",
+    "age": 439
+  },
+  {
+    "firstName": "Arabella",
+    "lastName": "Blossom",
+    "role": "Fae",
+    "employeeID": "Fa3kjadakj",
+    "gender": "Female",
+    "email": "live.love.laugh@gmail.com",
+    "age": 1286
+  },
+  {
+    "firstName": "Jamie",
+    "lastName": "Rosenblatt",
+    "role": "Orphan",
+    "employeeID": "kj387Ak",
+    "gender": "Non-binary",
+    "email": "darkFather4evr@gmail.com",
+    "age": 18
+  },
+  {
+    "firstName": "Mortimer",
+    "lastName": "Salzmann",
+    "role": "Painter/Mage",
+    "employeeID": "skUi89",
+    "gender": "Male",
+    "email": "fineArcs@gmail.com",
+    "age": 129
+  }
+]
