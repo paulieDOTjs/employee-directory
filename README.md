@@ -10,7 +10,7 @@ This app I developed to practice with using React’s useState API, and using so
 https://paul-employee-directory.netlify.com/
 
 # Images
-![employee-directory gif] https://github.com/paulrobhendrickson/employee-directory/blob/master/public/images/employee-directory.gif?raw=true
+![employee-directory gif](https://github.com/paulrobhendrickson/employee-directory/blob/master/public/images/employee-directory.gif?raw=true)
 
 # Installation
 NPM install should be run, NPM start should be run after. The app uses React so it will autolaunch on port 3000, if it is occupied it will prompt to run on another one.
