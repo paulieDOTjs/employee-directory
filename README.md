@@ -1,4 +1,4 @@
-# note-taker
+# employee-directory
 
 Live site found here: https://paul-employee-directory.netlify.com/
 
